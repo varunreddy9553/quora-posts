@@ -1,0 +1,31 @@
+h1 {
+    color:maroon;
+}
+.post
+{
+    background-color: blanchedalmond;
+}
+.user
+{
+    font-style:italic
+}
+.code {
+    height: 1px;
+    width:1px;
+
+}
+.see{
+    color:green;
+}
+button
+{
+   background-color: red;
+   color:white;
+   height:30px;
+}title {
+    color:yellow;
+    height:10px;
+}
+.varun {
+    background-color: blanchedalmond;
+}
